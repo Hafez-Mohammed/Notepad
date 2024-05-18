@@ -1,6 +1,6 @@
 # Notepad
 
-A new Flutter project.
+This project is an application that provides the client with the ability to deal with the sections and their notes, including additions, modifications, and deletions, after authentication.
 
 ## Getting Started
 
