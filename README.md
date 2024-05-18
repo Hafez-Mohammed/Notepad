@@ -1,4 +1,4 @@
-# flutter_course
+# Notepad
 
 A new Flutter project.
 
