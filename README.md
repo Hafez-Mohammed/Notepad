@@ -1,6 +1,7 @@
-# flutter_course
+# Notepad
 
-A new Flutter project.
+This project is an application that provides the client with the ability to deal with the sections and their notes, including additions, modifications, and deletions, after authentication.
+My application uses Firebase API as a back end.
 
 ## Getting Started
 
