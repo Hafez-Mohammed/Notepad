@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "Notepad",
       theme: ThemeData(
           colorScheme: ColorScheme(
               brightness: Brightness.light,
