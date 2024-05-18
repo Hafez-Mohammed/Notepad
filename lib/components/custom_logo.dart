@@ -14,7 +14,7 @@ class CustomLogo extends StatelessWidget {
             shape: BoxShape.circle, color: Color.fromARGB(255, 227, 221, 221)),
         child: Center(
             child: Image.asset(
-          "images/launch.png",
+          "images/icon.png",
           width: 75,
           height: 75,
         )),

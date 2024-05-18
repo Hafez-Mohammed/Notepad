@@ -57,7 +57,7 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "images/my app icon.png"
+  image_path: "images/icon.png"
   min_sdk_android: 21
 
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -98,6 +98,7 @@ flutter:
     - images/ui/icon1.png
     - images/launch.png
     - images/folder.png
+    - images/icon.png
 
   #   - images/a_dot_ham.jpeg
 
